@@ -8,3 +8,5 @@ add two line
 haahah
 aaaaa
 bbbb
+
+Creating a new branch is quick AND simple.
